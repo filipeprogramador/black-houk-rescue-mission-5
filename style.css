@@ -60,3 +60,15 @@ flex-wrap: wrap
         opacity: 
         0.3;
     }
+    .texto{
+        justify-content: center;
+        color: rgb(255, 255, 255);
+        font-size: 3pc;
+        font-style: normal;
+    }
+    .form{
+        justify-content: center;
+        color: rgb(39, 21, 143);
+        font-size: 2pc;
+    }
+    
